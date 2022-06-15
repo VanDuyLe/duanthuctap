@@ -1,3 +1,4 @@
 bin
 obj
 duy.docx
+locngu.docx
